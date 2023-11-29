@@ -1,14 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>1 Imagem</title>
-</head>
 <body>
-    <h1 style="text-align: center;">arraia</h1>
     <hr>
-    <p> arraia dando ola.</p>
-    <img src="img.jpg" alt="img" width="200">
+    <img src="img.png" alt="img" width="200">
     <hr>
-    <a href="index.html">Voltar a Pagina Inicial</a>
 </body>
 </html>
