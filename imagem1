@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <hr>
-    <img src="imagem.png" alt="img" width="200">
-    <hr>
-</body>
+    <img src="img_imagem.png" alt="img" width="200">
+    </body>
 </html>
