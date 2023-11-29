@@ -7,7 +7,7 @@
     <h1 style="text-align: center;">arraia</h1>
     <hr>
     <p> arraia dando ola.</p>
-    <img src="arraia.jpg" title="arraia" alt="arraia" width="455">
+    <img src="img.jpg" alt="img" width="200">
     <hr>
     <a href="index.html">Voltar a Pagina Inicial</a>
 </body>
