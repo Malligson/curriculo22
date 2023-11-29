@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <img src="img_img.png" alt="img" width="200">
-    </body>
+
+<h2>HTML Image</h2>
+<img src="pic_imagem.png" alt="img" width="500" height="333">
+
+</body>
 </html>
